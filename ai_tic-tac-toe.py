@@ -227,7 +227,6 @@ def main():
         render(board, c_choice, h_choice)
         print('DRAW BETWEEN HUMAN AND AI')
 
-    exit()
 
 #MAIN LOOP
 while True:
