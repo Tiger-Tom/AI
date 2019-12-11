@@ -228,9 +228,5 @@ def main():
         print('DRAW BETWEEN HUMAN AND AI')
 
 
-#MAIN LOOP
-while True:
-    main()
-    playA_ = input('PLAY AGAIN? (Y/N) >').upper()
-    if playA_ != 'Y':
-        break
+#MAIN
+main()
