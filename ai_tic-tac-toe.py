@@ -231,6 +231,6 @@ def main():
 #MAIN LOOP
 while True:
     main()
-    playA_ = input('PLAY AGAIN? (Y/N)').upper()
+    playA_ = input('PLAY AGAIN? (Y/N) >').upper()
     if playA_ != 'Y':
         break
